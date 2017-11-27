@@ -1,7 +1,7 @@
 let toDos = [
-  { id: 1, task: 'Wash Clothes', complete: false},
-  { id: 2, task: 'Finish Study', complete: false},
-  { id: 3, task: 'Feed Dog', complete: false},
-]
+  { id: 1, task: 'Wash Clothes', complete: true },
+  { id: 2, task: 'Finish Study', complete: false },
+  { id: 3, task: 'Feed Dog', complete: false }
+];
 
 export default toDos;
